@@ -1,0 +1,37 @@
+body{
+  background-color: white;
+  background-image: url(bookstore.jpg);
+  background-size: cover;
+}
+#header{
+
+
+}
+<div>
+  ul.nav{
+    color:blue;
+    float:right;
+    margin-top: 30px;
+    list-style-type: none;
+    background-color:  #ffffff00;
+  }
+  .nav li{
+    display: inline-block;
+    padding: 10px;
+    font-size: 50px;
+    background-color:  #ffffff00;
+
+  }
+  .nav li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 50px;
+  }
+  .nav li a:hover{
+    border: 1px solid white;
+  }
+</div>
+#footer{
+  clear:both;
+}
